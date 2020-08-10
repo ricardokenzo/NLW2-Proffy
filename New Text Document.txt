@@ -1,0 +1,4 @@
+yarn sstart (typescript, javascript)
+code . (Start visual studio code)
+expo init mobile (mobile) - react native
+blank typescript
